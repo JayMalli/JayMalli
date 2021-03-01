@@ -5,4 +5,8 @@
 <p align="left" style="bold">-🧠 My mind is currrenty trying to cover some area of Javascript domain as well as other stuff like Creative Coding (in Processing)😊</p>
 <h5 align="left"> 💬 Contact me, if you have any creative idea or Projects. </h5>
 
-    
+<img align="center" height="300" width="420" alt="GIF" src="/img/github.gif" >
+
+<hr>
+
+<p>I prefer technology orientened talks, discuss new ideas as well as reality based thoughts rather than normal talks, So feel free to talk me.</p>
