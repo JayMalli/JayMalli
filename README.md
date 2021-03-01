@@ -1,12 +1,25 @@
 <h1 align="left">Hello everyone 👋, I'm Jay</h1>
 <h2 align="left">I like to spend quality time with code.💻</h2>
 <h2 align="left">I'm programmer with a huge patience.😉</h2>
-<p align="left" style="bold">-Currently, I'm studing in B.Tech Computer Engineering from Atmiya University Gujarat, India.</p>
+<p align="left" style="bold">-Currently, I'm studying in B.Tech Computer Engineering from Atmiya University Gujarat, India.</p>
 <p align="left" style="bold">-🧠 My mind is currrenty trying to cover some area of Javascript domain as well as other stuff like Creative Coding (in Processing)😊</p>
-<h5 align="left"> 💬 Contact me, if you have any creative idea or Projects. </h5>
+<h5 align="left">- 💬 Contact me, if you have any creative idea or Projects. </h5>
 
 <img align="center" height="300" width="420" alt="GIF" src="/img/github.gif" >
 
 <hr>
 
 <p>I prefer technology orientened talks, discuss new ideas as well as reality based thoughts rather than normal talks, So feel free to talk me.</p>
+
+<h2> Connect me at👇</h2>
+<a href="https://www.instagram.com/jaymalli_programmer/" target="blank">
+<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" alt="jaymalli_programmer" width="8%" />
+</a>
+<br>
+<br>
+<br>
+<hr>
+
+<h3 align="left">Languages</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
