@@ -19,7 +19,7 @@
 
 <p>
   
-  - 🗨️I prefer technology orientened talks, discuss new ideas as well as reality based thoughts 🗯️ rather than normal talks, So feel free to talk me.😎
+  - 🗨️ I prefer technology orientened talks, discuss new ideas as well as reality based thoughts 🗯️ rather than normal talks, So feel free to talk me.😎
   
 </p>
 
