@@ -3,7 +3,7 @@
 <h2 align="left">I'm programmer with a huge patience.😉</h2>
 <p>
   
-  - Currently, I'm studying in B.Tech Computer Engineering from Atmiya University Gujarat, India.🧑‍🎓</p>
+  - Currently, I'm studying in B.Tech Computer Engineering from Atmiya University in Gujarat, India.🧑‍🎓</p>
  
 <p>
   
