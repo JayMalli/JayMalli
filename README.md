@@ -27,8 +27,8 @@
 <a href="https://www.instagram.com/jaymalli_programmer/" target="blank">
 <img align="left" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" alt="jaymalli_programmer" width="8%" />
 </a>
-<a href="https://www.facebook.com/jay.malli.56/" target="blank">
-<img align="left" src="https://image.flaticon.com/icons/svg/1409/1409943.svg" alt="jay.malli.56" width="8%" />
+<a href="/img/instagram.jpg" target="blank">
+<img align="left" src="/img/facebook.png" alt="jay.malli.56" width="8%" />
 </a>
 <br>
 <br>
